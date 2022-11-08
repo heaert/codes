@@ -1,0 +1,13 @@
+
+body {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+    height: 40vh;
+}
+
+.time {
+    font-size: 24px;
+}
